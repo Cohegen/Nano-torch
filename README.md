@@ -7,4 +7,4 @@ Implementation of Pytorch framework from scratch
 
 
 
-![Output examples](fireNation.gif)
+![Output examples](agnikai.gif)
