@@ -1,7 +1,7 @@
-"""
+
 ![Output examples](azula.gif)
 
-
+"""
 
 ## MISSION
 - This repo intends to showcase the implementation of Pytorch one of the most popular ML libraries from Scratch in pure Python.
